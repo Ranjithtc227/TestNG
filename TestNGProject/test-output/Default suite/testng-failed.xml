@@ -8,7 +8,6 @@
           <include name="browserInitialisation"/>
           <include name="closeMethods"/>
           <include name="scroll"/>
-          <include name="javaScriptExecutor"/>
         </methods>
       </class> <!-- testscript.JavaScriptExecuter -->
     </classes>
